@@ -1,4 +1,4 @@
-<img width="80" align='right' height="80" src="https://i.pinimg.com/originals/c0/48/b1/c048b1c59cc566f93f1eaeb66347eb55.gif?fit=1281%2C716&ssl=1"/>
+<img width="80" align='left' height="80" src="https://i.pinimg.com/originals/c0/48/b1/c048b1c59cc566f93f1eaeb66347eb55.gif?fit=1281%2C716&ssl=1"/>
 
 # Hey, I'm Leo! 
 <p>I'm an AIQA Engineer, where I blend my passion for technology with precision and innovation. In my role, I'm dedicated to developing rigorous tests that ensure software quality and reliability. My work is more than just a job; it's a space where I challenge myself daily and contribute to the advancement of technology in meaningful ways.<p/>
