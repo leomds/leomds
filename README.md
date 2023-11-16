@@ -79,7 +79,7 @@ Languages & Technologies: <img src="https://img.shields.io/badge/Python-3776AB?&
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-username/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 -->
 [![Instagram](https://img.shields.io/badge/jljoseleandro-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/jljoseleandro/)
-[![Linkedin](https://img.shields.io/badge/-joseleandroms-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/joseleandroms)
+[![Linkedin](https://img.shields.io/badge/-joseleandroms-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseleandroms)
 [![Gmail Badge](https://img.shields.io/badge/-jlmdsjoseleandro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:jlmdsjoseleandro@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/leomds?label=follow&style=social)](https://github.com/leomds/)
 <br/>
