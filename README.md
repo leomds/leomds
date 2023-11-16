@@ -78,10 +78,15 @@ Languages & Technologies: <img src="https://img.shields.io/badge/Python-3776AB?&
 <!--
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-username/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 -->
-
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](www.linkedin.com/in/joseleandroms)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:jlmdsjoseleandro@gmail.com)
+[![Instagram](https://img.shields.io/badge/jljoseleandro-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/jljoseleandro/)
+[![Linkedin](https://img.shields.io/badge/-joseleandroms-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](www.linkedin.com/in/joseleandroms)
+[![Gmail Badge](https://img.shields.io/badge/-jlmdsjoseleandro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:jlmdsjoseleandro@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/leomds?label=follow&style=social)](https://github.com/leomds/)
+<br/>
+![Psn](https://img.shields.io/badge/darkness\_potatoe-003791?&logo=playstation&logoColor=white)
+[![Steam](https://img.shields.io/badge/Leo_sem_o_Stronda-000000?&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198122699331)
+[![Epic_Games](https://img.shields.io/badge/leo_no_stronder-313131?logo=Epic%20Games&logoColor=white)](https://launcher.store.epicgames.com/u/fb7adbc0ede5459f8e61d07ba4c32e17)
+
 
 
 <div align="center">
