@@ -96,7 +96,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-u
 ---
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/victormoreiraofc/count.svg"
+    src="https://profile-counter.glitch.me/leomds/count.svg"
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
