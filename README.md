@@ -100,3 +100,24 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-u
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
+
+# GAME 
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="index.css">
+        <title>Bola fujona</title>
+    </head>
+    <body>
+        <div class="score-wrapper">
+            <p>Score</p>
+            <p id="score">0</p>
+        </div>
+        <button id="ball">Clique Aqui</button>
+        
+        <script src="index.js"></script>
+    </body>
+</html>
