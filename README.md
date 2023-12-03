@@ -102,16 +102,14 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-u
 </p>
 
 # GAME 
-<!DOCTYPE html>
-<html lang="en">
-    <head>
+<head>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="index.css">
         <title>Bola fujona</title>
-    </head>
-    <body>
+</head>
+<body>
         <div class="score-wrapper">
             <p>Score</p>
             <p id="score">0</p>
@@ -119,5 +117,4 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-u
         <button id="ball">Clique Aqui</button>
         
         <script src="index.js"></script>
-    </body>
-</html>
+</body>
