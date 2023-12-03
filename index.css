@@ -1,0 +1,30 @@
+*, hmtl, body {
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
+
+#ball {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    font-weight: 900;
+    font-size: 1.8rem;
+    user-select: none;
+    min-width: 100px;
+    min-height: 100px;
+
+    border: 0;
+    
+    transition: 0.2s;
+    /*transition-timing-function: ease-out;*/
+}
+
+.score-wrapper {
+    font-size: 1.8em;
+    display: flex;
+    gap: 16px;
+    padding: 16px;
+}
