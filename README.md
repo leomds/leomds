@@ -69,8 +69,15 @@
 ### Work Experience
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://miro.medium.com/v2/resize:fit:2400/1*WaYbnlkjRjLQBgRf9Ml5uA.png"/>](https://www.indt.org.br/)
 
+**Automation Engineer** \
+[**INDT**](https://www.indt.org.br/) • Full-time • 2024-Now\
+Languages & Technologies: <img src="https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-777BB4?&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/SciPy-654FF0?&logo=SciPy&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/conda-342B029.svg?&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-27338e?&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E?&logo=scikit-learn&logoColor=white"/>\
+<br/>
+
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://miro.medium.com/v2/resize:fit:2400/1*WaYbnlkjRjLQBgRf9Ml5uA.png"/>](https://www.indt.org.br/)
 **Data Scientist** \
-[**INDT**](https://www.indt.org.br/) • Full-time \
+[**INDT**](https://www.indt.org.br/) • Full-time • 2022-2024\
 Languages & Technologies: <img src="https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-777BB4?&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/SciPy-654FF0?&logo=SciPy&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/conda-342B029.svg?&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-27338e?&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E?&logo=scikit-learn&logoColor=white"/>\
 <br/>
 <br/>
