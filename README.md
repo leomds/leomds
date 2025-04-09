@@ -1,7 +1,7 @@
 <img width="80" align='left' height="80" src="https://i.pinimg.com/originals/c0/48/b1/c048b1c59cc566f93f1eaeb66347eb55.gif?fit=1281%2C716&ssl=1"/>
 
 # Hey, I'm Leo! 
-<p>I'm an AI Engineer, passionate about Data Science and ML development, where I blend my passion for technology with precision and innovation. In my role, I'm dedicated to developing rigorous tests that ensure software quality and reliability. My work is more than just a job; it's a space where I challenge myself daily and contribute to the advancement of technology in meaningful ways.<p/>
+<p>I'm an AI QA Engineer, passionate about Data Science and ML development, where I blend my passion for technology with precision and innovation. In my role, I'm dedicated to developing rigorous tests that ensure software quality and reliability. My work is more than just a job; it's a space where I challenge myself daily and contribute to the advancement of technology in meaningful ways.<p/>
 <p>Outside of work, I have a deep love for video games. Gaming is not just a pastime for me; it's a journey into different worlds, an exploration of stories, and a test of skills and strategies. Additionally, I'm an avid reader. Books are my gateway to different perspectives and ideas, fueling both my imagination and professional creativity.<p/>
 <p>I thrive on challenges. Whether it's tackling a complex testing problem, mastering a new game, or delving into a thought-provoking book, I'm always seeking to push the boundaries of what's possible. I believe that every challenge is an opportunity to learn, grow, and innovate.<p/>
   
